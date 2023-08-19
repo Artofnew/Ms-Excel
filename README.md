@@ -1,2 +1,2 @@
-Creat Dashboard with microsoft Excel
-top multiple using chart coloumn,Pie,BAr,Combo Chart With Slicer And Provide the insights of sales
+Create Dashboard with microsoft Excel
+multiple using charts (coloumn,Pie,Bar,Combo) With Slicer And Provide the insights of sales
